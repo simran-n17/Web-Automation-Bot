@@ -73,6 +73,13 @@ This will:
 
 ---
 
+### 1. Bot Opening Browser
+![Browser Open](Screenshots/Img1.png)
+
+### 2. Bot Filling Form
+![Form Filled](Screenshots/Img2.png)
+![Form Filled](Screenshots/Img3.png)
+
 ## 🛠 Troubleshooting
 
 * **Chrome opens and closes instantly**
